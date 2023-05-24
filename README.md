@@ -1,6 +1,5 @@
   - 👋 Olá eu me chamo Douglas
-  - 👀 Sou uma pessoa curiosa, no sentido pra aprender
-- 🌱 Atualmente estudo Análise e desenvolvimento de sistemas e estudo matemática.
+- 🌱 Atualmente estudo Análise e desenvolvimento de sistemas.
 
 <!---
 DouglasGDev/DouglasGDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
