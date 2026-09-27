@@ -60,11 +60,7 @@ Meu foco é conectar sistemas: bancos de dados (MySQL, PostgreSQL, Oracle, Maria
 |---|---|---|
 | [SaleProERP](https://github.com/DouglasGDev/SaleProERP) | Delphi | ERP com banco de dados — projeto interdisciplinar de ADS |
 | [ConsultaCNPJ](https://github.com/DouglasGDev/ConsultaCNPJ) | Delphi | Consulta de CNPJ via integração com API |
-| [rustweb](https://github.com/DouglasGDev/rustweb) | Rust | Servidor web |
-| [snake](https://github.com/DouglasGDev/snake) | Rust | Jogo |
-| [cronometro](https://github.com/DouglasGDev/cronometro) | Mobile | App de cronômetro em React Native |
 | [projeto-pizzaria](https://github.com/DouglasGDev/projeto-pizzaria) | Full-Stack | Backend + Web + Mobile em TypeScript |
-| [INTEGRA-OLLAMA](https://github.com/DouglasGDev/INTEGRA-OLLAMA) | IA | Integração com LLM local em Python |
 
 ## Contato
 
