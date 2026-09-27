@@ -1,16 +1,27 @@
 # Olá, eu sou o Douglas 👋
 
-**Backend Developer • Rust / Integrações / IA aplicada**
+**Full Stack Developer • Rust / Integrações**
 
 📍 Sinop, Mato Grosso, Brasil
 🌐 Portfólio: [douglasgdev.github.io](https://douglasgdev.github.io)
 ✉️ [douglasgroff22@hotmail.com](mailto:douglasgroff22@hotmail.com)
 
-Transformo problemas complexos em integrações simples e confiáveis. Trabalho com APIs de alta performance em Rust, bancos de dados corporativos e soluções com LLMs, MCP e RAG.
+## Sobre mim
+
+Sou desenvolvedor full-stack de Sinop, MT, apaixonado por transformar problemas complexos em integrações simples e confiáveis. Trabalho com **Rust** para integrações e APIs de alta performance, além de Go, Java, PHP/Laravel, Node/Express e Delphi para sistemas corporativos.
+
+Meu foco é conectar sistemas: bancos de dados (MySQL, PostgreSQL, Oracle, MariaDB), frontends em React, Next.js e React Native, e soluções de IA aplicada com **LLMs, MCP, RAG e automações em n8n**. Também uso Docker no dia a dia e estudo Kubernetes. Gosto de código limpo, tipado e bem testado — em qualquer linguagem.
+
+## O que eu faço
+
+- **Backend & Integrações** — APIs e integrações de sistemas com Rust, Go, Java, PHP/Laravel, Node/Express e Delphi.
+- **Bancos de Dados** — Modelagem, consultas e otimização em MySQL, PostgreSQL, Oracle e MariaDB.
+- **Web & Mobile** — Interfaces e apps com React, Next.js e React Native para iOS e Android.
+- **IA & Automação** — Aplicações com LLMs, MCP, RAG e fluxos automatizados em n8n, com Docker e noções de Kubernetes.
 
 ## Stack
 
-**Backend:**
+**Backend & Integrações:**
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,7 +31,7 @@ Transformo problemas complexos em integrações simples e confiáveis. Trabalho 
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Delphi](https://img.shields.io/badge/delphi-%23B74635.svg?style=for-the-badge&logo=delphi&logoColor=white)
 
-**Banco de dados:**
+**Bancos de Dados:**
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
@@ -43,19 +54,21 @@ Transformo problemas complexos em integrações simples e confiáveis. Trabalho 
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## Projetos em destaque
+## Portfólio
 
-| Projeto | Descrição | Stack |
+| Projeto | Categoria | Descrição |
 |---|---|---|
-| [SaleProERP](https://github.com/DouglasGDev/SaleProERP) | ERP completo com banco de dados — projeto de formatura | Delphi • SQL |
-| [ConsultaCNPJ](https://github.com/DouglasGDev/ConsultaCNPJ) | Consulta de CNPJ via API pública | Delphi • REST |
-| [rustweb](https://github.com/DouglasGDev/rustweb) | Servidor web em Rust | Rust |
-| [snake](https://github.com/DouglasGDev/snake) | Jogo Snake | Rust |
-| [projeto-pizzaria](https://github.com/DouglasGDev/projeto-pizzaria) | Sistema full-stack (backend + web + mobile) | TypeScript |
-| [cronometro](https://github.com/DouglasGDev/cronometro) | App de cronômetro para Android | React Native |
-| [INTEGRA-OLLAMA](https://github.com/DouglasGDev/INTEGRA-OLLAMA) | Integração com LLM local | Python • LLM |
+| [SaleProERP](https://github.com/DouglasGDev/SaleProERP) | Delphi | ERP com banco de dados — projeto interdisciplinar de ADS |
+| [ConsultaCNPJ](https://github.com/DouglasGDev/ConsultaCNPJ) | Delphi | Consulta de CNPJ via integração com API |
+| [rustweb](https://github.com/DouglasGDev/rustweb) | Rust | Servidor web |
+| [snake](https://github.com/DouglasGDev/snake) | Rust | Jogo |
+| [cronometro](https://github.com/DouglasGDev/cronometro) | Mobile | App de cronômetro em React Native |
+| [projeto-pizzaria](https://github.com/DouglasGDev/projeto-pizzaria) | Full-Stack | Backend + Web + Mobile em TypeScript |
+| [INTEGRA-OLLAMA](https://github.com/DouglasGDev/INTEGRA-OLLAMA) | IA | Integração com LLM local em Python |
 
-## Estatísticas
+## Contato
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasGDev&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/DouglasGDev)
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasGDev&layout=compact&theme=tokyonight)](https://github.com/DouglasGDev)
+Disponível para projetos de integração, sistemas web e mobile e IA aplicada.
+
+[![Email](https://img.shields.io/badge/email-douglasgroff22@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasgroff22@hotmail.com)
+[![Portfólio](https://img.shields.io/badge/portf%C3%B3lio-douglasgdev.github.io-333?style=for-the-badge&logo=githubpages&logoColor=white)](https://douglasgdev.github.io)
