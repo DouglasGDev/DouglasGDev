@@ -70,6 +70,7 @@ Domino o ciclo completo: modelagem e otimização de dados em MySQL, PostgreSQL,
 | [SaleProERP](https://github.com/DouglasGDev/SaleProERP) | Delphi | ERP com banco de dados — projeto interdisciplinar de ADS |
 | [ConsultaCNPJ](https://github.com/DouglasGDev/ConsultaCNPJ) | Delphi | Consulta de CNPJ via integração com API |
 | [projeto-pizzaria](https://github.com/DouglasGDev/projeto-pizzaria) | Full-Stack | Backend + Web + Mobile em TypeScript |
+| [Iso-City](https://github.com/DouglasGDev/Iso-City) | Mobile | Jogo isométrico estilo GTA — React Native + Expo + Skia |
 
 ## Contato
 
