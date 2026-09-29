@@ -1,6 +1,6 @@
 # Olá, eu sou o Douglas 👋
 
-**Full Stack Developer • Rust / Integrações**
+**Full Stack Developer • Sistemas Corporativos & Integrações**
 
 📍 Sinop, Mato Grosso, Brasil
 🌐 Portfólio: [douglasgdev.github.io](https://douglasgdev.github.io)
@@ -9,9 +9,9 @@
 
 ## Sobre mim
 
-Sou desenvolvedor full-stack de Sinop, MT, apaixonado por transformar problemas complexos em integrações simples e confiáveis. Trabalho com **Rust** para integrações e APIs de alta performance, além de Go, Java, PHP/Laravel, Node/Express e Delphi para sistemas corporativos.
+Sou **Douglas Groff**, desenvolvedor Full Stack com mais de 4 anos de atuação em TI e foco em sistemas de gestão corporativos. Hoje desenvolvo e mantenho soluções que suportam operações de varejo — integrações, APIs e automações — com **Rust**, Go, Java, PHP/Laravel, Node/Express e Delphi.
 
-Meu foco é conectar sistemas: bancos de dados (MySQL, PostgreSQL, Oracle, MariaDB, Redis), frontends em React, Next.js e React Native, e soluções de IA aplicada com **LLMs, MCP, RAG e automações em n8n**. Projeto APIs com **Swagger/OpenAPI, Webhooks, WebSocket e arquitetura BFF**, com pipelines de **CI/CD**. Também uso Docker no dia a dia e estudo Kubernetes. Gosto de código limpo, tipado e bem testado — em qualquer linguagem.
+Domino o ciclo completo: modelagem e otimização de dados em MySQL, PostgreSQL, Oracle, MariaDB e Redis; APIs REST documentadas com Swagger/OpenAPI, Webhooks, WebSocket e arquitetura BFF; interfaces web e mobile com React, Next.js e React Native; deploys com Docker e pipelines de **CI/CD**; e soluções de IA aplicada com **LLMs, MCP, RAG e automações em n8n**. Gosto de código limpo, tipado e bem testado — em qualquer linguagem.
 
 ## O que eu faço
 
