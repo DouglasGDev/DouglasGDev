@@ -11,14 +11,14 @@
 
 Sou desenvolvedor full-stack de Sinop, MT, apaixonado por transformar problemas complexos em integrações simples e confiáveis. Trabalho com **Rust** para integrações e APIs de alta performance, além de Go, Java, PHP/Laravel, Node/Express e Delphi para sistemas corporativos.
 
-Meu foco é conectar sistemas: bancos de dados (MySQL, PostgreSQL, Oracle, MariaDB), frontends em React, Next.js e React Native, e soluções de IA aplicada com **LLMs, MCP, RAG e automações em n8n**. Também uso Docker no dia a dia e estudo Kubernetes. Gosto de código limpo, tipado e bem testado — em qualquer linguagem.
+Meu foco é conectar sistemas: bancos de dados (MySQL, PostgreSQL, Oracle, MariaDB, Redis), frontends em React, Next.js e React Native, e soluções de IA aplicada com **LLMs, MCP, RAG e automações em n8n**. Projeto APIs com **Swagger/OpenAPI, Webhooks, WebSocket e arquitetura BFF**, com pipelines de **CI/CD**. Também uso Docker no dia a dia e estudo Kubernetes. Gosto de código limpo, tipado e bem testado — em qualquer linguagem.
 
 ## O que eu faço
 
-- **Backend & Integrações** — APIs e integrações de sistemas com Rust, Go, Java, PHP/Laravel, Node/Express e Delphi.
-- **Bancos de Dados** — Modelagem, consultas e otimização em MySQL, PostgreSQL, Oracle e MariaDB.
+- **Backend & Integrações** — APIs e integrações com Rust, Go, Java, PHP/Laravel, Node/Express e Delphi — REST com Swagger/OpenAPI, Webhooks, WebSocket e padrão BFF.
+- **Bancos de Dados** — Modelagem, consultas e otimização em MySQL, PostgreSQL, Oracle e MariaDB, com cache e filas em Redis.
 - **Web & Mobile** — Interfaces e apps com React, Next.js e React Native para iOS e Android.
-- **IA & Automação** — Aplicações com LLMs, MCP, RAG e fluxos automatizados em n8n, com Docker e noções de Kubernetes.
+- **IA & Automação** — Aplicações com LLMs, MCP, RAG e fluxos automatizados em n8n, com Docker, CI/CD e noções de Kubernetes.
 
 ## Stack
 
@@ -32,11 +32,18 @@ Meu foco é conectar sistemas: bancos de dados (MySQL, PostgreSQL, Oracle, Maria
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Delphi](https://img.shields.io/badge/delphi-%23B74635.svg?style=for-the-badge&logo=delphi&logoColor=white)
 
-**Bancos de Dados:**
+**Bancos de Dados & Cache:**
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-%23C0765A.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**APIs & Arquitetura:**
+![Swagger](https://img.shields.io/badge/swagger/openapi-%2363A2CE.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![WebSockets](https://img.shields.io/badge/websockets-%23010101.svg?style=for-the-badge&logo=socketsurge&logoColor=white)
+![Webhooks](https://img.shields.io/badge/webhooks-%232B6CB0.svg?style=for-the-badge&logo=webhooks&logoColor=white)
+![BFF](https://img.shields.io/badge/BFF%20pattern-%237C3AED.svg?style=for-the-badge&logo=architecture&logoColor=white)
 
 **Web & Mobile:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -51,9 +58,10 @@ Meu foco é conectar sistemas: bancos de dados (MySQL, PostgreSQL, Oracle, Maria
 ![RAG](https://img.shields.io/badge/RAG-%23059669.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
-**Infra:**
+**Infra & DevOps:**
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%2326A557.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Portfólio
 
