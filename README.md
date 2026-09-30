@@ -1,6 +1,6 @@
 # Olá, eu sou o Douglas 👋
 
-**Full Stack Developer • Sistemas Corporativos & Integrações**
+**Full Stack Developer • Sistemas & Integrações**
 
 📍 Sinop, Mato Grosso, Brasil
 🌐 Portfólio: [douglasgdev.github.io](https://douglasgdev.github.io)
