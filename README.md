@@ -85,6 +85,30 @@ Domino o ciclo completo: modelagem e otimização de dados em MySQL, PostgreSQL,
 | [projeto-pizzaria](https://github.com/DouglasGDev/projeto-pizzaria) | Full-Stack | Backend + Web + Mobile em TypeScript |
 | [Iso-City](https://github.com/DouglasGDev/Iso-City) | Mobile | Jogo isométrico estilo GTA — React Native + Expo + Skia |
 
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=DouglasGDev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DouglasGDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=DouglasGDev&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
+
+**Linha do tempo de contribuições**
+
+<a href="https://github.com/DouglasGDev">
+  <img src="https://github-readme-activity-graph-delta.vercel.app/graph?username=DouglasGDev&bg_color=0d1117&color=c9d1d9&line=e514c0&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade — linha do tempo" width="100%">
+</a>
+
 ## Contato
 
 Disponível para projetos de integração, sistemas web e mobile e IA aplicada. É só tocar nos botões — respondo rápido.
