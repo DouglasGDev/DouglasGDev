@@ -20,6 +20,17 @@ Domino o ciclo completo: modelagem e otimização de dados em MySQL, PostgreSQL,
 - **Web & Mobile** — Interfaces e apps com React, Next.js e React Native para iOS e Android.
 - **IA & Automação** — Aplicações com LLMs, MCP, RAG e fluxos automatizados em n8n, com Docker, CI/CD e noções de Kubernetes.
 
+## Linguagens que mais programo
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Delphi/Pascal](https://img.shields.io/badge/Delphi%20%2F%20Pascal-e3498a?style=for-the-badge&logo=delphi&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=rust&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+
 ## Stack
 
 **Backend & Integrações:**
