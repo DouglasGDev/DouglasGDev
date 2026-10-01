@@ -3,9 +3,11 @@
 **Full Stack Developer • Sistemas & Integrações**
 
 📍 Sinop, Mato Grosso, Brasil
-🌐 Portfólio: [douglasgdev.github.io](https://douglasgdev.github.io)
-💼 LinkedIn: [Douglas da Silva Groff](https://www.linkedin.com/in/douglas-da-silva-groff-3a0826232)
-✉️ [douglasgroff22@hotmail.com](mailto:douglasgroff22@hotmail.com)
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-visitar-333?style=for-the-badge&logo=githubpages&logoColor=white)](https://douglasgdev.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasGDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-da-silva-groff-3a0826232)
+[![E-mail](https://img.shields.io/badge/E--mail-falar%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasgroff22@hotmail.com)
 
 ## Sobre mim
 
@@ -85,8 +87,9 @@ Domino o ciclo completo: modelagem e otimização de dados em MySQL, PostgreSQL,
 
 ## Contato
 
-Disponível para projetos de integração, sistemas web e mobile e IA aplicada.
+Disponível para projetos de integração, sistemas web e mobile e IA aplicada. É só tocar nos botões — respondo rápido.
 
-[![Email](https://img.shields.io/badge/email-douglasgroff22@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasgroff22@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-Douglas%20da%20Silva%20Groff-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-da-silva-groff-3a0826232)
-[![Portfólio](https://img.shields.io/badge/portf%C3%B3lio-douglasgdev.github.io-333?style=for-the-badge&logo=githubpages&logoColor=white)](https://douglasgdev.github.io)
+[![E-mail](https://img.shields.io/badge/E--mail-falar%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasgroff22@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasGDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-da-silva-groff-3a0826232)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-visitar-333?style=for-the-badge&logo=githubpages&logoColor=white)](https://douglasgdev.github.io)
