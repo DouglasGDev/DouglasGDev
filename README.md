@@ -13,14 +13,14 @@
 
 Sou **Douglas Groff**, desenvolvedor Full Stack com mais de 4 anos de atuação em TI e foco em sistemas de gestão corporativos. Hoje desenvolvo e mantenho soluções que suportam operações de varejo — integrações, APIs e automações — com **Rust**, Go, Java, PHP/Laravel, Node/Express e Delphi.
 
-Domino o ciclo completo: modelagem e otimização de dados em MySQL, PostgreSQL, Oracle, MariaDB e Redis; APIs REST documentadas com Swagger/OpenAPI, Webhooks, WebSocket e arquitetura BFF; interfaces web e mobile com React, Next.js e React Native; deploys com Docker e pipelines de **CI/CD**; e soluções de IA aplicada com **LLMs, MCP, RAG e automações em n8n**. Gosto de código limpo, tipado e bem testado — em qualquer linguagem.
+Domino o ciclo completo: modelagem e otimização de dados em MySQL, PostgreSQL, Oracle, MariaDB e Redis; APIs REST documentadas com Swagger/OpenAPI, Webhooks, WebSocket e arquitetura BFF; interfaces web e mobile com React, Next.js e React Native; deploys com Docker, AWS e pipelines de **CI/CD**; e soluções de IA aplicada com **LLMs, MCP, RAG e automações em n8n**. Gosto de código limpo, tipado e bem testado — em qualquer linguagem.
 
 ## O que eu faço
 
 - **Backend & Integrações** — APIs e integrações com Rust, Go, Java, PHP/Laravel, Node/Express e Delphi — REST com Swagger/OpenAPI, Webhooks, WebSocket e padrão BFF.
 - **Bancos de Dados** — Modelagem, consultas e otimização em MySQL, PostgreSQL, Oracle e MariaDB, com cache e filas em Redis.
 - **Web & Mobile** — Interfaces e apps com React, Next.js e React Native para iOS e Android.
-- **IA & Automação** — Aplicações com LLMs, MCP, RAG e fluxos automatizados em n8n, com Docker, CI/CD e noções de Kubernetes.
+- **IA & Automação** — Aplicações com LLMs, MCP, RAG e fluxos automatizados em n8n, com Docker, CI/CD, AWS e noções de Kubernetes.
 
 ## Linguagens que mais programo
 
@@ -73,6 +73,7 @@ Domino o ciclo completo: modelagem e otimização de dados em MySQL, PostgreSQL,
 
 **Infra & DevOps:**
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-%2326A557.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
