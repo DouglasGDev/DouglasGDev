@@ -82,6 +82,7 @@ Domino o ciclo completo: modelagem e otimização de dados em MySQL, PostgreSQL,
 | Projeto | Categoria | Descrição |
 |---|---|---|
 | [DevChat](https://github.com/DouglasGDev/java-angular-chat) | Full-Stack | Chatbot estilo ChatGPT — Java (Spring Boot) + Angular, com streaming de LLM (SSE) |
+| [DevOps Desktop](https://github.com/DouglasGDev/devops-desktop) | Desktop | Central de SSH, Git e Deploy — Rust + Tauri 2 + React 19 + SQLite, 132 testes |
 | [SaleProERP](https://github.com/DouglasGDev/SaleProERP) | Delphi | ERP com banco de dados — projeto interdisciplinar de ADS |
 | [ConsultaCNPJ](https://github.com/DouglasGDev/ConsultaCNPJ) | Delphi | Consulta de CNPJ via integração com API |
 | [projeto-pizzaria](https://github.com/DouglasGDev/projeto-pizzaria) | Full-Stack | Backend + Web + Mobile em TypeScript |
