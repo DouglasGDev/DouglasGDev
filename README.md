@@ -7,7 +7,6 @@
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-visitar-333?style=for-the-badge&logo=githubpages&logoColor=white)](https://douglasgdev.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasGDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-da-silva-groff/)
-[![E-mail](https://img.shields.io/badge/E--mail-falar%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasgroff22@hotmail.com)
 
 ## Sobre mim
 
@@ -116,7 +115,6 @@ Domino o ciclo completo: modelagem e otimização de dados em MySQL, PostgreSQL,
 
 Disponível para projetos de integração, sistemas web e mobile e IA aplicada. É só tocar nos botões — respondo rápido.
 
-[![E-mail](https://img.shields.io/badge/E--mail-falar%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglasgroff22@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DouglasGDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-da-silva-groff/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-visitar-333?style=for-the-badge&logo=githubpages&logoColor=white)](https://douglasgdev.github.io)
