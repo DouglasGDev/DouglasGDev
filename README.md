@@ -10,13 +10,13 @@
 
 ## Sobre mim
 
-Sou **Douglas Groff**, desenvolvedor Full Stack com mais de 4 anos de atuação em TI e foco em sistemas de gestão corporativos. Hoje desenvolvo e mantenho soluções que suportam operações de varejo — integrações, APIs e automações — com **Rust**, Go, Java, PHP/Laravel, Node/Express e Delphi.
+Sou **Douglas Groff**, desenvolvedor Full Stack com mais de 4 anos de atuação em TI e foco em sistemas de gestão corporativos. Hoje desenvolvo e mantenho soluções que suportam operações de varejo — integrações, APIs e automações — com **Rust**, Java, PHP/Laravel, Node/Express e Delphi.
 
-Domino o ciclo completo: modelagem e otimização de dados em MySQL, PostgreSQL, Oracle, MariaDB e Redis; APIs REST documentadas com Swagger/OpenAPI, Webhooks, WebSocket e arquitetura BFF; interfaces web e mobile com React, Next.js e React Native; deploys com Docker, AWS e pipelines de **CI/CD**; e soluções de IA aplicada com **LLMs, MCP, RAG e automações em n8n**. Gosto de código limpo, tipado e bem testado — em qualquer linguagem.
+Domino o ciclo completo: modelagem e otimização de dados em MySQL, PostgreSQL, Oracle, MariaDB e Redis; APIs REST documentadas com Swagger/OpenAPI, Webhooks, WebSocket e arquitetura BFF; interfaces web e mobile com React, Next.js e React Native; deploys com Docker, AWS e pipelines de **CI/CD**; e soluções de IA aplicada com **LLMs, MCP, RAG e automações em n8n**. Gosto de código limpo, tipado e bem testado — em qualquer linguagem. Venho me aprofundando em **Go**: goroutines, canais e tratamento explícito de erro.
 
 ## O que eu faço
 
-- **Backend & Integrações** — APIs e integrações com Rust, Go, Java, PHP/Laravel, Node/Express e Delphi — REST com Swagger/OpenAPI, Webhooks, WebSocket e padrão BFF.
+- **Backend & Integrações** — APIs e integrações com Rust, Java, PHP/Laravel, Node/Express e Delphi — REST com Swagger/OpenAPI, Webhooks, WebSocket e padrão BFF.
 - **Bancos de Dados** — Modelagem, consultas e otimização em MySQL, PostgreSQL, Oracle e MariaDB, com cache e filas em Redis.
 - **Web & Mobile** — Interfaces e apps com React, Next.js e React Native para iOS e Android.
 - **IA & Automação** — Aplicações com LLMs, MCP, RAG e fluxos automatizados em n8n, com Docker, CI/CD, AWS e noções de Kubernetes.
